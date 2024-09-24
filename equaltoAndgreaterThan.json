@@ -1,0 +1,14 @@
+/**
+ * query: The query in MQL.
+ */
+
+
+/* equal to and greater than */
+{
+  country:  "United States",
+
+  age: {
+    $gt: 40
+  }
+  
+}
